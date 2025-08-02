@@ -2,7 +2,8 @@
 <h3 align="center">Aspiring Software Developer | MCA Graduate | Java & Web Dev Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Passionate+about+Java+%26+SQL;Love+building+clean+UIs+%26+real-world+apps;Focused+on+learning+%26+growth" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Passionate+about+Java+%26+SQL;Love+building+clean+UIs+%26+real-world+apps;Focused+on+learning+%26+growth" />
+
 </p>
 
 ---
