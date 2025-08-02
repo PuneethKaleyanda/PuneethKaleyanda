@@ -35,7 +35,6 @@
 
 - 🔗 [GetWhatBasket](https://github.com/PuneethKaleyanda/GetWhatBasket) – Online Grocery Store System using PHP & MySQL  
 - 🔧 Selenium Automation for QA Internship – [Private Repo]  
-- 💻 Java-based Student Management System [Coming soon]
 
 ---
 
